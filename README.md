@@ -43,7 +43,9 @@ Right now i'm working on my master's thesis at CGI.
 | 2023–2025 | Industry Relations Officer | BTH Student Union (BITS) |
 
 ---
+![MiranIsmail's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiranIsmail&theme=vision-friendly-dark&show_icons=true&hide_border=true_width="400")
 
+---
 ## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Website-miranis.cc-0a0a0a?style=flat&logo=firefox&logoColor=white)](https://miranis.cc)
