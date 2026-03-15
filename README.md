@@ -2,7 +2,7 @@
 
 I'm a final-year Software Engineering student at **Blekinge Institute of Technology** (graduating 2026), with a passion for building things.
 
-I've interned at **Ericsson** twice, most recently as part of a 5-person team that built a dashboard application from scratch. Outside of code, you'll find me gaming, working on side projects, or exploring new tech.
+I've interned at **Ericsson** twice, most recently as part of a 5-person team that built a dashboard application from scratch.
 
 ---
 
