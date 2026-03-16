@@ -1,6 +1,6 @@
 # Hi, I'm Miran 👋
 
-I'm a final-year Software Engineering student at **Blekinge Institute of Technology** (graduating 2026), with a passion for building things.
+I'm a fifth-year Software Engineering student at **Blekinge Institute of Technology** (graduating 2026), with a passion for building things.
 
 I've interned at **Ericsson** twice, most recently as part of a 5-person team that built a dashboard application from scratch.
 
